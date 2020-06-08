@@ -1,2 +1,2 @@
-# com.fx.race
-Race game using javaFX
+# Fx-Race
+simple racing game using JavaFX
